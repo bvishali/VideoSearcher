@@ -9,11 +9,12 @@ namespace VideoSearcherAPI.Searcher
 {
     public class VttContentSearcher
     {
+
         public static string[] Search(string file, string content)
         {
             string[] frame = new string[20];
             VttParser parser = new VttParser();
-            List<SubtitleItem> list = parser.ParseStream(File.Open(file, FileMode.Open), System.Text.Encoding.ASCII);
+            List<string> subs = parser.ConvertVTTToString(File.Open(file, FileMode.Open), System.Text.Encoding.ASCII);
             /*search through sliding window*/
             //int windowSize = 0;
             //string[] contentlist = content.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
@@ -27,6 +28,7 @@ namespace VideoSearcherAPI.Searcher
             //        else { windowSize++; }
             //    }
             //}
+            //Console.WriteLine(subs[1]);
             return frame;
         }
     }

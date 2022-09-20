@@ -34,9 +34,28 @@ namespace VideoSearcherAPI.Parser
             public VttParser() { }
 
 
-            // Methods -------------------------------------------------------------------------
+        // Methods -------------------------------------------------------------------------
+        
+        public List<string> ConvertVTTToString(Stream vttStream, Encoding encoding)
+        {
+            List<SubtitleItem> items = ParseStream(vttStream, encoding);
+            System.Text.StringBuilder subs = new System.Text.StringBuilder();
+            foreach (var item in items)
+            {
+                string sub = String.Join(" ", item.Lines.ToArray());
+                subs.Append(sub);
+            }
 
-            public List<SubtitleItem> ParseStream(Stream vttStream, Encoding encoding)
+             return SplitByLength(subs.ToString(), 20000).ToList();
+        }
+            private IEnumerable<string> SplitByLength(string str, int maxLength)
+             {
+                for (int index = 0; index < str.Length; index += maxLength)
+                {
+                yield return str.Substring(index, Math.Min(maxLength, str.Length - index));
+                }
+              }
+        public List<SubtitleItem> ParseStream(Stream vttStream, Encoding encoding)
             {
                 // test if stream if readable and seekable (just a check, should be good)
                 if (!vttStream.CanRead || !vttStream.CanSeek)

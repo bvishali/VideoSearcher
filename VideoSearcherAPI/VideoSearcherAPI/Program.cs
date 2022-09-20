@@ -6,7 +6,7 @@ public class Program
 {
     public static void Main(string[] input) {
         Console.WriteLine("Hello, World!");
-        VttContentSearcher.Search(@"D:\Hackathon-22\VideoSearcherAPI\VideoSearcherAPI\WeeklyTechSyncUp.vtt", "sdjfjs sfsdbf afasf");
+        VttContentSearcher.Search(@"D:\hack22\FAQ_BOT\VideoSearcher\VideoSearcherAPI\VideoSearcherAPI\Transcript.vtt", "sdjfjs sfsdbf afasf");
 
     }
 }
