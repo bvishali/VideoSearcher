@@ -24,9 +24,9 @@ namespace VideoSearcherWebAPI.Controllers
         {
             try
             {
-                var filePath = Environment.CurrentDirectory.Replace("/bin", string.Empty).Replace("/obj", string.Empty);
-                if (string.IsNullOrWhiteSpace(fileName) || fileName == "none") fileName = "/Content/FY22 Rewards Demystification.vtt";
-                return VttContentSearcher.Search(filePath + "/" + fileName, searchWord);
+                var filePath = $"{Environment.CurrentDirectory.Replace("/bin", string.Empty).Replace("/obj", string.Empty)}/Content/";
+                if (string.IsNullOrWhiteSpace(fileName) || fileName == "none") fileName = "FY22 Rewards Demystification.vtt";
+                return QnARetriever.Search($"{filePath}/{fileName}", searchWord);
                 
             }
             catch (Exception e)
