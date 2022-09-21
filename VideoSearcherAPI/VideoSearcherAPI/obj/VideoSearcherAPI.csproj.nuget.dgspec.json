@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hackathon-22\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj": {}
+    "D:\\Hackathon-22\\VideoSearcher\\VideoSearcher\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj": {}
   },
   "projects": {
-    "D:\\Hackathon-22\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj": {
+    "D:\\Hackathon-22\\VideoSearcher\\VideoSearcher\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hackathon-22\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj",
+        "projectUniqueName": "D:\\Hackathon-22\\VideoSearcher\\VideoSearcher\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj",
         "projectName": "VideoSearcherAPI",
-        "projectPath": "D:\\Hackathon-22\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj",
+        "projectPath": "D:\\Hackathon-22\\VideoSearcher\\VideoSearcher\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj",
         "packagesPath": "C:\\Users\\nineema\\.nuget\\packages\\",
-        "outputPath": "D:\\Hackathon-22\\VideoSearcherAPI\\VideoSearcherAPI\\obj\\",
+        "outputPath": "D:\\Hackathon-22\\VideoSearcher\\VideoSearcher\\VideoSearcherAPI\\VideoSearcherAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nineema\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -36,8 +36,14 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Azure.AI.Language.QuestionAnswering": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

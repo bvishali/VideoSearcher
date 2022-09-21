@@ -1,0 +1,4002 @@
+﻿WEBVTT
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/8-0
+00:00:05.188 --> 00:00:05.418
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/14-0
+00:00:07.078 --> 00:00:08.508
+I guess it is recording right?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/21-0
+00:00:08.838 --> 00:00:10.408
+Yeah, yeah, that's correct.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/18-0
+00:00:09.128 --> 00:00:09.398
+Yep.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/26-0
+00:00:12.258 --> 00:00:13.548
+Yeah, go ahead.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/28-0
+00:00:14.188 --> 00:00:14.608
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/70-0
+00:00:16.528 --> 00:00:20.046
+Also, I am preparing a something
+that's like it has like a
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/70-1
+00:00:20.046 --> 00:00:23.504
+different uh like versions name
+with different thing like
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/70-2
+00:00:23.504 --> 00:00:27.260
+sunwell is also known as we do
+22 S 2 nickel and it has like a
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/59-0
+00:00:26.458 --> 00:00:27.168
+Umm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/70-3
+00:00:27.260 --> 00:00:30.598
+client versions available but
+server is in development.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/81-0
+00:00:31.358 --> 00:00:32.708
+That I've done this for all.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/80-0
+00:00:31.748 --> 00:00:32.388
+Gotcha. OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/85-0
+00:00:33.568 --> 00:00:34.248
+Great.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/101-0
+00:00:33.848 --> 00:00:37.467
+Maybe if there's someone new
+come he will not get so much
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/113-0
+00:00:36.708 --> 00:00:41.218
+Yeah. Yeah. I also do not know
+this. This message is pretty.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/101-1
+00:00:37.467 --> 00:00:38.028
+confused.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/136-0
+00:00:41.828 --> 00:00:45.784
+Yeah, like in FTE, I think we
+are all have only server in TH
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/136-1
+00:00:45.784 --> 00:00:49.870
+one only client. These we have
+all both versions. So these are
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/131-0
+00:00:46.558 --> 00:00:47.868
+That's it, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/136-2
+00:00:49.870 --> 00:00:50.518
+the names.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/145-0
+00:00:51.258 --> 00:00:54.198
+And and some tips and tricks
+that I, uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/197-0
+00:00:56.058 --> 00:01:00.020
+The that I initially got
+confused during this while doing
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/197-1
+00:01:00.020 --> 00:01:04.186
+this MSRC so like before running
+because we have to set this
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/156-0
+00:01:00.368 --> 00:01:00.848
+Umm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/197-2
+00:01:04.186 --> 00:01:08.626
+things on and binary we can use
+this sign command. But once this
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/197-3
+00:01:08.626 --> 00:01:12.656
+signs sign command was not
+working like it was not signing
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/197-4
+00:01:12.656 --> 00:01:14.978
+the binary. So I used sign
+tools.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/232-0
+00:01:15.678 --> 00:01:19.671
+And we have to like set us
+signing on from admin mode and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/232-1
+00:01:19.671 --> 00:01:23.802
+some other things like uh, a
+resale dot CMD we can run only
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/232-2
+00:01:23.802 --> 00:01:28.070
+from a command prompt, not from
+like PowerShell. So these few
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/232-3
+00:01:28.070 --> 00:01:29.928
+pitfalls that you can fall.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/236-0
+00:01:31.188 --> 00:01:31.908
+So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/250-0
+00:01:31.228 --> 00:01:36.208
+So for for I guess PowerShell
+there is a rather dot PS1.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/280-0
+00:01:35.868 --> 00:01:40.462
+PS1, PS One, yeah, yeah. But
+from Rs one to download, let
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/280-1
+00:01:40.462 --> 00:01:43.788
+from downlevel platforms, it's
+not, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/284-0
+00:01:41.898 --> 00:01:45.028
+There's no no PS1, right? Right.
+Yeah, true.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/295-0
+00:01:45.008 --> 00:01:48.978
+So all these things are I'm what
+I encountered so.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/298-0
+00:01:48.878 --> 00:01:49.948
+Yeah, good, good.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/300-0
+00:01:50.508 --> 00:01:50.808
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/318-0
+00:01:51.418 --> 00:01:54.890
+You can like share the link in
+case you want and we can like
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/314-0
+00:01:54.458 --> 00:01:55.368
+Ah yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/318-1
+00:01:54.890 --> 00:01:56.938
+put it in in the chair. Yeah.
+Cool.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/335-0
+00:01:58.478 --> 00:02:01.858
+Ohh Peter to what I opened
+because I wanted to see that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/335-1
+00:02:01.858 --> 00:02:03.668
+vibranium real element or not.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/344-0
+00:02:05.068 --> 00:02:08.958
+I guess it's just that wrong
+that Marvel movies.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/350-0
+00:02:10.488 --> 00:02:10.688
+This.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/360-0
+00:02:11.608 --> 00:02:14.248
+So have you guys heard about a
+channel called veritasium?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/366-0
+00:02:14.888 --> 00:02:15.818
+Anybody's aware?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/373-0
+00:02:15.298 --> 00:02:16.938
+Ohh yeah yeah I.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/381-0
+00:02:16.058 --> 00:02:18.208
+Veritasium yeah, Harry Potter, I
+think no.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/382-0
+00:02:17.238 --> 00:02:18.398
+Yeah, so that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/389-0
+00:02:19.148 --> 00:02:19.928
+No, no, no.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/406-0
+00:02:19.218 --> 00:02:25.005
+No, the veritasium is the like.
+He's a like info info candidates
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/399-0
+00:02:22.408 --> 00:02:23.838
+Yeah, I.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/406-1
+00:02:25.005 --> 00:02:25.628
+mainly.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/414-0
+00:02:25.198 --> 00:02:27.558
+I forgot his name. What is his
+name?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/411-0
+00:02:25.428 --> 00:02:26.498
+OK. OK. OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/493-0
+00:02:28.478 --> 00:02:32.579
+I, Derrick, I guess some direct
+something, right? I also do not
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/431-0
+00:02:30.698 --> 00:02:32.308
+Yeah, yeah, yeah, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/493-1
+00:02:32.579 --> 00:02:36.424
+recall the complete name, but
+direct something is like yeah
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/440-0
+00:02:34.458 --> 00:02:34.858
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/445-0
+00:02:36.388 --> 00:02:36.688
+Like.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/493-2
+00:02:36.424 --> 00:02:40.525
+and and it's number is 420. So
+I'm not sure if anybody is aware
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/493-3
+00:02:40.525 --> 00:02:44.498
+of that 4:20, but yeah, somebody
+asked him on the channel, is
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/493-4
+00:02:44.498 --> 00:02:48.279
+this the real element? So he
+told him no, it's it's just a
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/493-5
+00:02:48.279 --> 00:02:50.778
+fictional word that he has
+brought up.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/495-0
+00:02:51.068 --> 00:02:51.538
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/518-0
+00:02:52.698 --> 00:02:56.161
+Right. And I think rig with you
+got it confused with the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/518-1
+00:02:56.161 --> 00:02:57.618
+veritaserum that is the.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/526-0
+00:02:56.718 --> 00:02:59.888
+Theorem. Yeah, yeah, yeah, that
+I remember just now.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/532-0
+00:03:00.228 --> 00:03:01.268
+That's OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/536-0
+00:03:00.558 --> 00:03:02.728
+Are you a Harry Potter fan?
+Regret.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/567-0
+00:03:02.528 --> 00:03:05.905
+Yeah, yeah, I have read like
+I've had tried that order of
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/567-1
+00:03:05.905 --> 00:03:09.630
+Phoenix other than I have read
+all the books. Initially I first
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/567-2
+00:03:09.630 --> 00:03:11.958
+read the books and then saw the
+movies.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/562-0
+00:03:10.088 --> 00:03:10.618
+So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/573-0
+00:03:12.728 --> 00:03:14.438
+So are you like a potterhead?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/590-0
+00:03:15.198 --> 00:03:18.558
+And not, I would say what red
+was. But like I visit the JK
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/590-1
+00:03:18.558 --> 00:03:20.608
+Rowling that website. What is
+that?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/592-0
+00:03:20.688 --> 00:03:21.338
+The.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/605-0
+00:03:21.518 --> 00:03:27.148
+Umm to like read some more like
+a side stories and all that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/608-0
+00:03:27.968 --> 00:03:28.768
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/615-0
+00:03:29.238 --> 00:03:30.018
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/616-0
+00:03:29.338 --> 00:03:30.348
+What is the portal head?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/674-0
+00:03:31.628 --> 00:03:36.060
+Support a potterhead is a person
+who is like very much into this
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/623-0
+00:03:31.678 --> 00:03:32.448
+Like a.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/674-1
+00:03:36.060 --> 00:03:40.424
+Harry Potter world and you know
+they're they're like to collect
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/674-2
+00:03:40.424 --> 00:03:44.515
+collectibles or or all these
+merchandise. And they are very
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/674-3
+00:03:44.515 --> 00:03:48.606
+much engrossed into Harry Potter
+fans. Basically everything
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/674-4
+00:03:48.606 --> 00:03:51.878
+related to that they will
+discuss and all that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/676-0
+00:03:52.818 --> 00:03:53.258
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/695-0
+00:03:54.058 --> 00:03:58.861
+But if Voldemort doesn't die,
+and what if it's something like
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/682-0
+00:03:54.388 --> 00:03:54.928
+Nice.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/697-0
+00:03:58.688 --> 00:04:00.278
+Whatever it has to say was.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/695-1
+00:03:58.861 --> 00:03:59.248
+that?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/708-0
+00:04:01.718 --> 00:04:04.878
+He should know all. All the
+chance, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/702-0
+00:04:02.158 --> 00:04:02.708
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/712-0
+00:04:03.998 --> 00:04:05.868
+So actually you like Harry
+Potter.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/718-0
+00:04:06.508 --> 00:04:07.678
+Yeah, I'm a potterhead.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/724-0
+00:04:08.108 --> 00:04:09.398
+Ohh nice.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/723-0
+00:04:08.628 --> 00:04:09.408
+Ohh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/736-0
+00:04:10.778 --> 00:04:15.008
+OK, so As for the DTP request.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/731-0
+00:04:12.718 --> 00:04:13.228
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/734-0
+00:04:13.528 --> 00:04:13.838
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/746-0
+00:04:16.038 --> 00:04:20.938
+So this is a website, is there
+actually I read from this so.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/750-0
+00:04:21.658 --> 00:04:23.008
+Yeah, that link.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/757-0
+00:04:24.358 --> 00:04:25.108
+I'll share.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/761-0
+00:04:24.458 --> 00:04:26.288
+I mean be needing that, right?
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/770-0
+00:04:27.168 --> 00:04:28.648
+Yeah, you can share it in the
+chat.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/767-0
+00:04:27.318 --> 00:04:27.678
+Fine.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/774-0
+00:04:35.158 --> 00:04:36.178
+And which is this?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/779-0
+00:04:36.578 --> 00:04:37.418
+Weekly tech.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/788-0
+00:04:36.808 --> 00:04:40.888
+Uh, techno must be on the top,
+right?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/794-0
+00:04:41.258 --> 00:04:42.848
+Uh in the?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/795-0
+00:04:42.058 --> 00:04:43.108
+How did I message?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/804-0
+00:04:43.608 --> 00:04:45.888
+In the call link there will be
+one.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/809-0
+00:04:46.228 --> 00:04:47.658
+Yeah, chat you can see.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/822-0
+00:04:47.568 --> 00:04:50.258
+Yet jacked and the calls chat
+you can test.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/816-0
+00:04:48.358 --> 00:04:49.038
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/821-0
+00:04:49.218 --> 00:04:50.168
+On the top.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/837-0
+00:04:54.018 --> 00:04:59.170
+So actually this is a very good
+uh guide. So it has like all the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/837-1
+00:04:59.170 --> 00:05:00.358
+different here.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/839-0
+00:05:01.188 --> 00:05:02.478
+Ohh about.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/848-0
+00:05:03.548 --> 00:05:04.818
+No. OK, very.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/850-0
+00:05:03.898 --> 00:05:05.368
+How to create a DTP request?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/853-0
+00:05:06.298 --> 00:05:06.688
+Umm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/861-0
+00:05:06.478 --> 00:05:07.608
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/870-0
+00:05:07.048 --> 00:05:12.238
+So it has this link to this page
+also this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/873-0
+00:05:11.998 --> 00:05:13.328
+Where did you find this?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/885-0
+00:05:14.288 --> 00:05:19.448
+I search from like this, uh,
+from here and elsewhere.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/889-0
+00:05:18.998 --> 00:05:21.208
+Pull from boys. Derrick. OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/907-0
+00:05:21.478 --> 00:05:26.267
+Yeah, actually I've been using
+this for like many things. Uh,
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/907-1
+00:05:26.267 --> 00:05:30.438
+for, like, setting up this
+source depot and all that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/912-0
+00:05:31.018 --> 00:05:31.818
+Yeah, yeah, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/913-0
+00:05:31.288 --> 00:05:31.878
+Umm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/918-0
+00:05:32.498 --> 00:05:33.968
+So it's very helpful.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/920-0
+00:05:35.278 --> 00:05:35.968
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/969-0
+00:05:36.738 --> 00:05:41.663
+So here we can put our bug bug
+ID so it will fetch everything
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/931-0
+00:05:40.078 --> 00:05:40.488
+Mm-hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/969-1
+00:05:41.663 --> 00:05:46.666
+from this VSO like on the case
+for my MSRC. Then we can select
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/969-2
+00:05:46.666 --> 00:05:51.670
+a product. Let's say I'm working
+for RS5 and we can put in the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/969-3
+00:05:51.670 --> 00:05:54.688
+kbid. Now KB ID we can get from
+that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/983-0
+00:05:54.768 --> 00:06:00.749
+Yeah, there's a that tool. So
+the package ID, for example this
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/974-0
+00:05:56.088 --> 00:05:56.558
+That.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/983-1
+00:06:00.749 --> 00:06:01.128
+RS5.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/991-0
+00:06:03.278 --> 00:06:04.168
+I'll just fight.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1004-0
+00:06:03.308 --> 00:06:08.038
+OK. BID OK we can obtain from
+Gray matter also, right or no?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1027-0
+00:06:08.308 --> 00:06:11.948
+OK VKB ID. I thought I don't
+think you can obtain from Gray
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1027-1
+00:06:11.948 --> 00:06:13.768
+metric that knowledge base ID.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1030-0
+00:06:14.238 --> 00:06:14.928
+Correct. Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1043-0
+00:06:15.858 --> 00:06:19.428
+OK. So you are saying that it we
+can get it from that tool?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1035-0
+00:06:16.088 --> 00:06:16.528
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1071-0
+00:06:19.938 --> 00:06:23.722
+Yeah, because when your package
+is built, it generates a like
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1071-1
+00:06:23.722 --> 00:06:27.078
+knowledge base ID. This so my
+this KVR tickle is this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1070-0
+00:06:25.288 --> 00:06:26.918
+Ohk OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1077-0
+00:06:27.908 --> 00:06:28.778
+OK. OK. OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1078-0
+00:06:28.028 --> 00:06:28.538
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1089-0
+00:06:28.378 --> 00:06:31.651
+So I guess for like updated
+change we have to use this you
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1089-1
+00:06:31.651 --> 00:06:31.928
+know.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1099-0
+00:06:32.048 --> 00:06:34.528
+OK, you are not able to. Are you
+able to say this?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1094-0
+00:06:32.648 --> 00:06:32.948
+Good.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1106-0
+00:06:34.618 --> 00:06:35.648
+Yeah, we we can see it.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1141-0
+00:06:35.438 --> 00:06:40.698
+Yeah, yeah, no, but I actually
+regret so here, that KB article
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1115-0
+00:06:36.458 --> 00:06:37.118
+You can see the.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1114-0
+00:06:36.568 --> 00:06:37.358
+Earlier also.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1141-1
+00:06:40.698 --> 00:06:46.041
+that comes in that I don't know
+after the build, but I think in
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1141-2
+00:06:46.041 --> 00:06:48.378
+the one that goes into this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1155-0
+00:06:48.448 --> 00:06:53.738
+Oh oh, link is a dummy when I
+don't think it is the one that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1168-0
+00:06:52.618 --> 00:06:57.605
+Yeah, so ideally the KB article
+should be, you know, captured
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1161-0
+00:06:53.998 --> 00:06:54.788
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1168-1
+00:06:57.605 --> 00:06:58.328
+from the.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1181-0
+00:06:59.598 --> 00:07:02.638
+A group item group work item for
+the MSRC.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1182-0
+00:07:02.868 --> 00:07:03.278
+Yes.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1194-0
+00:07:04.888 --> 00:07:08.048
+OK, OK, actually I I use this
+one.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1203-0
+00:07:07.288 --> 00:07:10.267
+But I think this is a
+placeholder so it works also I
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1203-1
+00:07:10.267 --> 00:07:10.548
+mean.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1205-0
+00:07:10.358 --> 00:07:10.868
+Uh-huh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1210-0
+00:07:12.258 --> 00:07:13.628
+So I insert this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1259-0
+00:07:13.708 --> 00:07:17.576
+The poor little something like
+this. So since these are private
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1259-1
+00:07:17.576 --> 00:07:21.263
+package I use for private for
+testing in this sheet they are
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1259-2
+00:07:21.263 --> 00:07:25.010
+mentioned that you can mention a
+private for if you are doing
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1259-3
+00:07:25.010 --> 00:07:28.878
+private testing. But if you are
+doing like official MSU package
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1259-4
+00:07:28.878 --> 00:07:32.565
+that is that LNU package or some
+other package after they're
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1259-5
+00:07:32.565 --> 00:07:34.378
+generated that you can use no.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1269-0
+00:07:35.618 --> 00:07:37.828
+Uh, so the difference?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1262-0
+00:07:35.858 --> 00:07:36.228
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1307-0
+00:07:36.868 --> 00:07:40.434
+So what? So sorry, sorry to
+interrupt you. Right. So sorry.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1279-0
+00:07:40.408 --> 00:07:40.888
+Uh-huh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1307-1
+00:07:40.434 --> 00:07:44.296
+Sure. Ashwini, can you clear one
+thing? So for this KB idea, I I
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1307-2
+00:07:44.296 --> 00:07:47.861
+suppose this KB ID should map to
+the current changes or the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1307-3
+00:07:47.861 --> 00:07:50.238
+changed file that we have built,
+right?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1316-0
+00:07:50.968 --> 00:07:53.028
+Otherwise, how would it test on
+the latest?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1322-0
+00:07:52.688 --> 00:07:55.918
+It should, so it should map to
+the.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1345-0
+00:07:56.318 --> 00:07:59.595
+Uh to the release KB article
+that is there and that is, I
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1345-1
+00:07:59.595 --> 00:08:02.589
+think, uh. Written in like
+Sourish said that will be
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1345-2
+00:08:02.589 --> 00:08:04.058
+written in the task group.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1385-0
+00:08:04.518 --> 00:08:08.015
+Yeah, got it. But if if that is
+the case, so but we want to run
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1356-0
+00:08:04.768 --> 00:08:05.698
+So that is.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1385-1
+00:08:08.015 --> 00:08:11.403
+this on our changes, right, the
+changes that we have done the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1372-0
+00:08:10.778 --> 00:08:11.158
+Yes.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1385-2
+00:08:11.403 --> 00:08:14.900
+fix, so how will that will will
+that come in the latest stages,
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1385-3
+00:08:14.900 --> 00:08:15.228
+is it?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1389-0
+00:08:17.028 --> 00:08:18.268
+Uh, Rick?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1397-0
+00:08:17.978 --> 00:08:21.118
+That I think rigved can answer
+because.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1398-0
+00:08:20.768 --> 00:08:21.218
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1399-0
+00:08:21.008 --> 00:08:21.408
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1405-0
+00:08:22.328 --> 00:08:23.278
+So how do we?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1417-0
+00:08:22.478 --> 00:08:26.968
+I actually let me open open that
+task group.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1410-0
+00:08:23.968 --> 00:08:24.598
+Yeah. Tell me.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1444-0
+00:08:27.918 --> 00:08:32.917
+No, no. So from the bug ID to it
+can take right? Because in the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1422-0
+00:08:28.248 --> 00:08:28.758
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1444-1
+00:08:32.917 --> 00:08:35.728
+bug we are whenever we are
+pushing.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1464-0
+00:08:34.858 --> 00:08:39.351
+Private private testing actually
+is not dependent on TV ID. You
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1449-0
+00:08:37.208 --> 00:08:37.798
+But.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1464-1
+00:08:39.351 --> 00:08:42.158
+just give it to me when that
+will work.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1460-0
+00:08:40.098 --> 00:08:40.598
+Ah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1485-0
+00:08:50.018 --> 00:08:50.558
+Umm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1504-0
+00:08:51.588 --> 00:08:54.519
+Changes have been to that
+specific AB ID for private. I
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1504-1
+00:08:54.519 --> 00:08:57.555
+think it can work because
+anyways they are different. TBD
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1504-2
+00:08:57.555 --> 00:08:58.758
+for different packages.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1526-0
+00:08:59.938 --> 00:09:04.010
+OK, so basically from the bug ID
+only it will sing the PR right?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1526-1
+00:09:04.010 --> 00:09:05.638
+Or the code changes is it?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1537-0
+00:09:06.538 --> 00:09:09.568
+Actually we are providing it
+that package also. So I will
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1537-1
+00:09:09.568 --> 00:09:10.038
+show you.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1543-0
+00:09:10.648 --> 00:09:11.518
+At church church.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1556-0
+00:09:10.728 --> 00:09:15.131
+So I yeah, so I actually we are
+providing the whole package
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1556-1
+00:09:15.131 --> 00:09:17.258
+this, this, this dad package.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1564-0
+00:09:19.198 --> 00:09:21.688
+So we are providing it a whole
+this thing.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1567-0
+00:09:22.318 --> 00:09:23.198
+This installer.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1569-0
+00:09:23.858 --> 00:09:24.428
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1578-0
+00:09:24.478 --> 00:09:27.218
+So it doesn't matter. It will
+take all the updates from this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1580-0
+00:09:28.028 --> 00:09:28.388
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1623-0
+00:09:32.208 --> 00:09:37.284
+Yeah, so after this, we can.
+Yeah. So if you you are selected
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1623-1
+00:09:37.284 --> 00:09:41.787
+is private, the options are
+disabled. Now you can save
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1623-2
+00:09:41.787 --> 00:09:46.536
+request and run AB ABS test
+selection. So in this sheet I
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1623-3
+00:09:46.536 --> 00:09:50.138
+they're mentioned that so it
+will identify.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1729-0
+00:09:50.308 --> 00:09:54.804
+Of like from from this thing I
+think from this information they
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1729-1
+00:09:54.804 --> 00:09:59.019
+will identify where the code
+changes are done like in which
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1729-2
+00:09:59.019 --> 00:10:03.444
+area are done will take a test
+accordingly like for example my
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1729-3
+00:10:03.444 --> 00:10:07.519
+changes are done in register
+area it will take like sorry
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1729-4
+00:10:07.519 --> 00:10:12.084
+base area register area it will
+take those tests accordingly. So
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1729-5
+00:10:12.084 --> 00:10:16.721
+it will take some time like 5-10
+minutes it takes around. So I'll
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1729-6
+00:10:16.721 --> 00:10:18.898
+show from here my previous one.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1763-0
+00:10:25.798 --> 00:10:32.188
+And also it depends on which
+version we are running. For
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1763-1
+00:10:32.188 --> 00:10:38.914
+example in this PR I think
+RS5RS5 it took only 10 tests but
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1763-2
+00:10:38.914 --> 00:10:43.398
+in this Rs one it took around 26
+tests.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1818-0
+00:10:44.158 --> 00:10:48.000
+And some were like client
+version tests somewhere else.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1818-1
+00:10:48.000 --> 00:10:52.391
+Someone somewhere like a server
+version test and different test
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1818-2
+00:10:52.391 --> 00:10:56.575
+in 1920 took around like 41
+tests. So it also depends on the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1818-3
+00:10:56.575 --> 00:11:00.348
+version that you are testing. So
+here is a total jobs.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1828-0
+00:11:09.038 --> 00:11:11.658
+So these are all the test it
+used.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1862-0
+00:11:16.458 --> 00:11:20.655
+OK, so you can see here this
+enterprise version like client
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1862-1
+00:11:20.655 --> 00:11:24.502
+version around four test and
+other versions are. So it
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1862-2
+00:11:24.502 --> 00:11:28.839
+mentioned that these are server
+test kind of also. So it will
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1862-3
+00:11:28.839 --> 00:11:29.888
+take some time.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1867-0
+00:11:32.128 --> 00:11:33.748
+There is that, huh?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1907-0
+00:11:34.828 --> 00:11:38.384
+This this is in progress. It
+will take some time. So after
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1907-1
+00:11:38.384 --> 00:11:42.302
+that in the in next step what we
+do it asks us to provide a this
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1907-2
+00:11:42.302 --> 00:11:45.858
+this package version. So where
+we have to put this package
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1907-3
+00:11:45.858 --> 00:11:48.028
+version we have to put inside
+this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1909-0
+00:11:48.108 --> 00:11:48.438
+The.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1966-0
+00:11:57.468 --> 00:12:02.050
+So here is a this will this path
+we have to provide a private
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1966-1
+00:12:02.050 --> 00:12:06.633
+packages inside this and we have
+to give this link we have to
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1966-2
+00:12:06.633 --> 00:12:11.510
+copy this link and put it inside
+that that that input field which
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1966-3
+00:12:11.510 --> 00:12:16.019
+we have given. So to put here
+you have to gain access from a
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/1966-4
+00:12:16.019 --> 00:12:17.718
+DLL. So this is the DL.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2001-0
+00:12:25.638 --> 00:12:29.743
+Yeah. So it does, Vin XCX. FT
+Group is a group in ID web that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2001-1
+00:12:29.743 --> 00:12:33.648
+you have to take permission from
+and after they have given
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2001-2
+00:12:33.648 --> 00:12:37.488
+permission then you can insert
+this your file inside this
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2001-3
+00:12:37.488 --> 00:12:40.268
+folder and then you can start to
+testing.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2004-0
+00:12:42.868 --> 00:12:43.398
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2009-0
+00:12:43.208 --> 00:12:45.138
+Yeah. Yeah, so.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2011-0
+00:12:44.408 --> 00:12:45.858
+Hello my boss.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2019-0
+00:12:46.868 --> 00:12:49.048
+I'll be time over book.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2075-0
+00:12:49.438 --> 00:12:54.227
+This is my my thing. So you have
+to you have to be like specific
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2030-0
+00:12:51.158 --> 00:12:51.798
+Umm, let me.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2075-1
+00:12:54.227 --> 00:12:59.090
+you have to put inside R5 folder
+for RS5. This is my KB ID and 64
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2075-2
+00:12:59.090 --> 00:13:03.658
+you have to type in 64 if you
+don't if you don't directly put
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2075-3
+00:13:03.658 --> 00:13:08.226
+your that package file here not
+inside the 64 it will show an
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2075-4
+00:13:08.226 --> 00:13:08.668
+error.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2097-0
+00:13:09.288 --> 00:13:13.364
+In this uh DTP page itself, so
+you have to put inside this and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2097-1
+00:13:13.364 --> 00:13:17.246
+then you have to take its path
+and you have to paste there.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2097-2
+00:13:17.246 --> 00:13:18.798
+After that it will work.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2102-0
+00:13:25.828 --> 00:13:27.038
+These are on the different.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2118-0
+00:13:28.258 --> 00:13:33.908
+Of urgent where for RS5? These
+are the different KB ID.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2120-0
+00:13:35.548 --> 00:13:36.068
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2128-0
+00:13:52.858 --> 00:13:54.098
+Yeah, that's all I think.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2142-0
+00:13:58.658 --> 00:14:01.794
+OK. I guess Ashwini you got
+actually my connection broke in
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2142-1
+00:14:01.794 --> 00:14:03.728
+between. So you got the steps
+right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2179-0
+00:14:04.688 --> 00:14:09.067
+Yeah, most of them, I got like
+the I have, I have a few doubts
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2158-0
+00:14:07.148 --> 00:14:08.258
+OK. OK, fine.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2179-1
+00:14:09.067 --> 00:14:13.446
+I think but those since we have
+regret now then we can ask him
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2179-2
+00:14:13.446 --> 00:14:14.558
+whenever needed.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2198-0
+00:14:14.018 --> 00:14:18.551
+Yeah, yeah. So once we are like
+doing it, no. Yeah, we can ask
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2184-0
+00:14:15.528 --> 00:14:15.908
+Umm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2186-0
+00:14:15.778 --> 00:14:16.248
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2202-0
+00:14:17.628 --> 00:14:19.758
+Yeah, exactly. Yeah, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2198-1
+00:14:18.551 --> 00:14:18.838
+him.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2201-0
+00:14:19.248 --> 00:14:19.788
+Hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2210-0
+00:14:20.808 --> 00:14:22.238
+OK. Thanks Rick with.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2209-0
+00:14:21.778 --> 00:14:22.048
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2212-0
+00:14:23.178 --> 00:14:23.658
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2229-0
+00:14:23.678 --> 00:14:28.718
+So I think I can talk about that
+RPC legacy test failure.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2216-0
+00:14:23.908 --> 00:14:24.468
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2219-0
+00:14:24.388 --> 00:14:24.888
+Welcome.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2233-0
+00:14:29.898 --> 00:14:30.558
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2239-0
+00:14:30.018 --> 00:14:32.348
+Uh, yes. Sure. Please.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2254-0
+00:14:32.128 --> 00:14:36.195
+We were spending, I mean that
+was due for some time, right?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2245-0
+00:14:33.458 --> 00:14:33.908
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2255-0
+00:14:35.778 --> 00:14:36.558
+Right, right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2254-1
+00:14:36.195 --> 00:14:36.398
+So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2295-0
+00:14:37.368 --> 00:14:43.108
+OK. So yeah, so as we know that
+we own the RPC framework for
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2295-1
+00:14:43.108 --> 00:14:48.660
+this. So whenever there is a
+whenever we are like shipping
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2295-2
+00:14:48.660 --> 00:14:54.024
+for MSRC, so it is also like our
+job because we own that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2295-3
+00:14:54.024 --> 00:14:56.658
+component, it is our job to.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2313-0
+00:14:57.388 --> 00:15:03.231
+Uh, basically monitor if there
+are any major test failures. So
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2313-1
+00:15:03.231 --> 00:15:05.178
+I think in in for 9B.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2315-0
+00:15:05.878 --> 00:15:06.578
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2392-0
+00:15:07.968 --> 00:15:12.655
+Also added nine bids right now
+for 8B. That is in August. So
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2392-1
+00:15:12.655 --> 00:15:17.111
+that time we got we observed
+certain MTP test failure. So
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2392-2
+00:15:17.111 --> 00:15:21.798
+like DTP required if you're
+specially for you, if you're not
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2392-3
+00:15:21.798 --> 00:15:26.561
+aware, MTP is the monthly test
+pass that is like whole in you
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2392-4
+00:15:26.561 --> 00:15:30.633
+can say unit testing plus
+integration testing of all
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2392-5
+00:15:30.633 --> 00:15:35.243
+components across Windows and
+everything. So there are some
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2380-0
+00:15:33.228 --> 00:15:33.788
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2392-6
+00:15:35.243 --> 00:15:39.238
+legacy tests that are that have
+been written since.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2399-0
+00:15:39.598 --> 00:15:41.768
+This are busy component was
+written.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2427-0
+00:15:42.418 --> 00:15:46.014
+So we observed that in one of
+the test suits it was a test
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2427-1
+00:15:46.014 --> 00:15:49.426
+suit of nine tests we were
+observing that seven of them
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2427-2
+00:15:49.426 --> 00:15:50.218
+were failing.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2458-0
+00:15:50.838 --> 00:15:55.410
+So now this is this becomes like
+an emergency. Why? Because since
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2458-1
+00:15:55.410 --> 00:15:59.288
+almost how many 20 years this
+component like this whole
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2458-2
+00:15:59.288 --> 00:16:03.444
+windows is in place. But these
+tests we have never seen the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2458-3
+00:16:03.444 --> 00:16:03.998
+failure.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2529-0
+00:16:05.118 --> 00:16:09.711
+So it I think it was for the
+first time that this was there.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2529-1
+00:16:09.711 --> 00:16:14.529
+So it so it the responsibility
+naturally came to us to try edge
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2529-2
+00:16:14.529 --> 00:16:19.272
+it and like look for it. So the
+way we approached it is so 223
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2529-3
+00:16:19.272 --> 00:16:23.939
+things here I want to say. So
+first is we got aware about the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2529-4
+00:16:23.939 --> 00:16:28.531
+whole test framework like how
+it, I mean how these tests are
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2529-5
+00:16:28.531 --> 00:16:29.058
+run so.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2555-0
+00:16:29.778 --> 00:16:34.122
+1st is like we should be aware
+about the vendor team which who
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2555-1
+00:16:34.122 --> 00:16:38.258
+is responsible for carrying out
+and firing those test jobs.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2562-0
+00:16:37.778 --> 00:16:40.208
+Ashwini just sharing anything I
+mean.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2579-0
+00:16:39.958 --> 00:16:43.384
+No, no, not now. I haven't
+shared in some time. So right
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2579-1
+00:16:43.384 --> 00:16:46.388
+now I'm just telling some
+background information.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2597-0
+00:16:47.778 --> 00:16:52.830
+So the first thing that we
+should be aware about is the WTT
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2582-0
+00:16:48.138 --> 00:16:48.488
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2597-1
+00:16:52.830 --> 00:16:54.598
+studio. So when this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2634-0
+00:16:54.678 --> 00:17:00.044
+Uh, we got like the information
+around this failure. The first
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2634-1
+00:17:00.044 --> 00:17:05.496
+thing was they they just gave us
+a job failure link. So now the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2634-2
+00:17:05.496 --> 00:17:10.521
+way this works is this vendor
+team that corresponds to our
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2634-3
+00:17:10.521 --> 00:17:11.628
+base team of.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2641-0
+00:17:12.668 --> 00:17:15.538
+WSD, they, uh, they have these.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2678-0
+00:17:16.218 --> 00:17:21.612
+Uh, machines like like for us in
+India time Wipro is the is one
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2678-1
+00:17:21.612 --> 00:17:26.837
+of the vendors and basically
+they will they have this studio,
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2678-2
+00:17:26.837 --> 00:17:31.725
+this software called the WTT
+Studio. It is meant for this
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2678-3
+00:17:31.725 --> 00:17:34.758
+Windows testing tool. It is
+called.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2735-0
+00:17:35.598 --> 00:17:40.044
+So from that they uh that is
+linked to a background of like a
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2735-1
+00:17:40.044 --> 00:17:44.490
+lot of machines comprising of
+physical machines and VM's. All
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2735-2
+00:17:44.490 --> 00:17:48.936
+of this infrastructure is there
+in the background and that is
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2735-3
+00:17:48.936 --> 00:17:53.382
+linked to this, this, WT and
+there is also one more term that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2735-4
+00:17:53.382 --> 00:17:56.608
+we should be aware of that is
+the nebula VM.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2754-0
+00:17:57.468 --> 00:18:03.868
+So these two are used by these
+vendor teams to test and monitor
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2754-1
+00:18:03.868 --> 00:18:06.168
+this monthly test pass.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2770-0
+00:18:07.008 --> 00:18:11.778
+Sorry. Uh, sorry to disturb you,
+but is this nebula VM?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2759-0
+00:18:07.068 --> 00:18:07.758
+So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2764-0
+00:18:08.808 --> 00:18:09.158
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2795-0
+00:18:13.098 --> 00:18:17.762
+So this so when I said that we
+have a set of physical machines
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2795-1
+00:18:17.762 --> 00:18:21.018
+and the VM right on which we run
+the tests.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2789-0
+00:18:19.168 --> 00:18:19.598
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2820-0
+00:18:21.648 --> 00:18:25.282
+So, uh, nebulas software is, uh,
+nebulous. The name of that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2820-1
+00:18:25.282 --> 00:18:29.158
+software through which we gain
+that access to those testing VM.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2822-0
+00:18:31.038 --> 00:18:31.568
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2845-0
+00:18:32.178 --> 00:18:36.238
+Uh, yeah. So whenever we have
+this DTP or MTP failure, the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2845-1
+00:18:36.238 --> 00:18:40.298
+first thing that we would want
+to see is the repro of that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2845-2
+00:18:40.298 --> 00:18:40.848
+failure.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2869-0
+00:18:41.718 --> 00:18:46.150
+Now, uh, getting that repro on a
+local VM is almost next to
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2869-1
+00:18:46.150 --> 00:18:50.655
+impossible like I think I spent
+two days just to get a local
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2869-2
+00:18:50.655 --> 00:18:51.098
+repro.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2877-0
+00:18:51.778 --> 00:18:54.608
+And it is very complicated. So
+the.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2945-0
+00:18:55.418 --> 00:19:00.391
+The reason is that they like
+there is a test binary that is
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2945-1
+00:19:00.391 --> 00:19:05.529
+just needed to be run simply but
+before for that test to run.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2945-2
+00:19:05.529 --> 00:19:09.756
+There are a lot of
+configurations and very complex
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2945-3
+00:19:09.756 --> 00:19:14.646
+configurations that go in the
+back end, so we don't have a
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2945-4
+00:19:14.646 --> 00:19:19.867
+place to like, reproduce those
+configurations on our local VMS
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2945-5
+00:19:19.867 --> 00:19:25.254
+and carry out the test. So that
+is the first level of complexity
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2945-6
+00:19:25.254 --> 00:19:25.668
+that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2954-0
+00:19:26.248 --> 00:19:28.738
+Is there in this whole DTP MTP
+part?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/2959-0
+00:19:29.398 --> 00:19:31.158
+Uh. Which is why like.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3012-0
+00:19:32.088 --> 00:19:36.367
+Which is, which is what makes it
+difficult. So which is why we
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3012-1
+00:19:36.367 --> 00:19:40.578
+always generally need a vendor
+team or to fire these jobs, or
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3012-2
+00:19:40.578 --> 00:19:44.993
+to set these configs. But it is
+possible to do that from the WTC
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3012-3
+00:19:44.993 --> 00:19:49.272
+studio app that is there. So I
+think one thing to to note from
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3012-4
+00:19:49.272 --> 00:19:50.698
+this sync up is that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3016-0
+00:19:51.388 --> 00:19:52.348
+Uh, we should.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3061-0
+00:19:53.668 --> 00:19:59.454
+Try to have this uh WTT setup on
+our dev machines and we need to
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3061-1
+00:19:59.454 --> 00:20:04.795
+learn how to fire these test
+jobs, just like we learned for
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3061-2
+00:20:04.795 --> 00:20:09.958
+DTP. So this for MTP. Also we we
+should learn to do that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3080-0
+00:20:11.078 --> 00:20:15.834
+The second thing to look at is
+the WTL lock file. Now let me
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3080-1
+00:20:15.834 --> 00:20:18.718
+just see if I still have it
+locally.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3082-0
+00:20:20.318 --> 00:20:20.948
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3111-0
+00:20:52.128 --> 00:20:56.885
+Ashwini so so this, uh MTP. It
+starts automatically? Or do we
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3093-0
+00:20:53.198 --> 00:20:53.568
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3111-1
+00:20:56.885 --> 00:21:01.258
+have to like submit some
+requests like we do for DTP or?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3124-0
+00:21:01.538 --> 00:21:06.562
+Yeah, we have to submit that
+request for for from that WTT
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3124-1
+00:21:06.562 --> 00:21:07.498
+studio app.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3127-0
+00:21:08.978 --> 00:21:10.058
+WSD OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3133-0
+00:21:10.628 --> 00:21:12.168
+Yeah. So let me just.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3135-0
+00:21:12.908 --> 00:21:13.748
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3141-0
+00:21:17.608 --> 00:21:19.098
+Let me share my screen.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3174-0
+00:21:25.378 --> 00:21:30.047
+Yeah, so this WT or is also
+known as Atlas Studio, so I will
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3174-1
+00:21:30.047 --> 00:21:34.562
+paste the wiki link in the end
+so the this is how you from
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3162-0
+00:21:33.128 --> 00:21:33.528
+Hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3174-2
+00:21:34.562 --> 00:21:38.388
+here. I mean you launch that
+application locally.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3176-0
+00:21:39.128 --> 00:21:40.038
+And.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3200-0
+00:21:40.898 --> 00:21:45.858
+There will be so generally two
+to get started with. They will
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3200-1
+00:21:45.858 --> 00:21:50.578
+give you a a WTTW TTL file. So
+WTL stands for I think this
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3200-2
+00:21:50.578 --> 00:21:52.418
+thing Windows test log.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3217-0
+00:21:54.918 --> 00:22:01.088
+So let me see if I have that
+file stored anywhere locally.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3205-0
+00:21:55.308 --> 00:21:55.738
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3219-0
+00:22:03.408 --> 00:22:04.118
+Ohh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3225-0
+00:22:05.978 --> 00:22:07.378
+Better to search in this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3282-0
+00:22:54.598 --> 00:22:58.969
+Yeah. So that there is this
+file, but I don't think it is
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3282-1
+00:22:58.969 --> 00:23:03.717
+that file which was there in the
+failure logs of this MTP test
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3282-2
+00:23:03.717 --> 00:23:08.615
+failure that we were working on.
+But anyway to just to like give
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3282-3
+00:23:08.615 --> 00:23:10.348
+you a brief intro this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3319-0
+00:23:11.968 --> 00:23:15.981
+That is this WT file that WTL
+file that we need to look at and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3319-1
+00:23:15.981 --> 00:23:20.121
+inside that there will be these
+windows logs in which we will be
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3319-2
+00:23:20.121 --> 00:23:23.178
+able to see the error logs of
+the failing test.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3386-0
+00:23:24.868 --> 00:23:29.740
+And so that is one part we need
+to understand. Then how did we
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3386-1
+00:23:29.740 --> 00:23:34.225
+try edge it? So that is the
+third part now. So we we knew
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3386-2
+00:23:34.225 --> 00:23:38.942
+that this MTP test failure is
+for the 8B release. So we went
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3386-3
+00:23:38.942 --> 00:23:43.582
+and checked like there were a
+total of 64 bugs that were 64
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3386-4
+00:23:43.582 --> 00:23:47.990
+bugs for which the changes were
+being released in the 8B
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3386-5
+00:23:47.990 --> 00:23:48.608
+payload.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3416-0
+00:23:49.308 --> 00:23:54.199
+So from the error logs, first of
+all we learned that this RPC
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3416-1
+00:23:54.199 --> 00:23:59.247
+test suite is failing for some
+security descriptor mismatch. So
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3416-2
+00:23:59.247 --> 00:24:03.348
+that is first clue that we got
+from the error logs.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3419-0
+00:24:04.018 --> 00:24:04.788
+2nd.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3426-0
+00:24:04.428 --> 00:24:07.268
+Sorry, security descriptor
+mismatch means.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3422-0
+00:24:05.918 --> 00:24:06.178
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3437-0
+00:24:07.978 --> 00:24:12.158
+Yeah, so, uh. So actually
+security descriptor is 1.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3500-0
+00:24:12.248 --> 00:24:16.843
+Ohh you can say it is a security
+element that we attach to the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3500-1
+00:24:16.843 --> 00:24:21.147
+most of the data structures that
+go into the making of the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3500-2
+00:24:21.147 --> 00:24:25.815
+operating system in general. So
+this is the term that we use to
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3500-3
+00:24:25.815 --> 00:24:30.045
+like set permissions or like
+like access controlled for a
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3500-4
+00:24:30.045 --> 00:24:34.348
+particular data structure to
+define if it is a kernel more
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3500-5
+00:24:34.348 --> 00:24:38.943
+data structure, user mode and
+who and which process can go and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3500-6
+00:24:38.943 --> 00:24:39.818
+access that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3503-0
+00:24:40.738 --> 00:24:41.288
+So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3505-0
+00:24:40.808 --> 00:24:41.778
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3542-0
+00:24:42.018 --> 00:24:46.150
+Yeah. So that is like uh, so
+this security descriptor was
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3542-1
+00:24:46.150 --> 00:24:49.998
+something that was being
+accessed by a component. And
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3542-2
+00:24:49.998 --> 00:24:54.344
+there that test was failing
+because of some improper you can
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3542-3
+00:24:54.344 --> 00:24:56.908
+say access parameters or
+something.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3605-0
+00:24:57.628 --> 00:25:02.362
+So it the first clue was to look
+at all the security related
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3605-1
+00:25:02.362 --> 00:25:07.174
+files or the DLL's that were
+being changed in the 8B payload.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3605-2
+00:25:07.174 --> 00:25:12.063
+So that was the first step. Then
+second option was to look for
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3605-3
+00:25:12.063 --> 00:25:16.564
+networking binaries. Any any
+binaries that are related to
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3605-4
+00:25:16.564 --> 00:25:20.832
+networking? Because in
+networking also we use a lot of
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3605-5
+00:25:20.832 --> 00:25:25.256
+these access control parameters
+to like go expose secure
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3605-6
+00:25:25.256 --> 00:25:27.118
+networks. So that's why.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3642-0
+00:25:28.068 --> 00:25:32.268
+And RPC also runs over the
+network, so that was the second
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3642-1
+00:25:32.268 --> 00:25:36.753
+clue. So luckily in the first
+set of binaries that is anything
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3642-2
+00:25:36.753 --> 00:25:40.953
+related to security, that is
+something, I mean that is any
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3642-3
+00:25:40.953 --> 00:25:44.868
+binary that the ENS, the
+enterprise and security team.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3707-0
+00:25:45.528 --> 00:25:50.262
+Uh ships, so we, so I and Ravi,
+we were closely working with the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3707-1
+00:25:50.262 --> 00:25:54.123
+vendor team on that. We
+identified a set of binaries
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3707-2
+00:25:54.123 --> 00:25:58.857
+that we should first look at. So
+how did we exactly do it? So we
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3707-3
+00:25:58.857 --> 00:26:03.445
+took the 8B payload that was the
+machine that we were given by
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3707-4
+00:26:03.445 --> 00:26:08.107
+the vendor team and it was known
+to us that in the seven C with
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3707-5
+00:26:08.107 --> 00:26:11.238
+the seven C payload, this test
+is passing.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3767-0
+00:26:11.858 --> 00:26:16.373
+So the way to check it was we
+keep swapping the binary like
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3767-1
+00:26:16.373 --> 00:26:21.189
+for example let's say if if it's
+the RPC for example RPC binary
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3767-2
+00:26:21.189 --> 00:26:25.779
+that is failing. So for RPC the
+binary name is RP CRT folder
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3767-3
+00:26:25.779 --> 00:26:30.595
+DLL. So we take the location of
+that DLL in the current machine
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3767-4
+00:26:30.595 --> 00:26:33.228
+and swap it with these seven
+CDLL.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3801-0
+00:26:34.078 --> 00:26:38.407
+So right now we have the 8B DLL,
+but we swap it from the seven C
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3801-1
+00:26:38.407 --> 00:26:42.669
+payload that we take from track
+it and we swap it with that and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3801-2
+00:26:42.669 --> 00:26:46.598
+then run the test and check if
+that is the failing binary.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3803-0
+00:26:47.248 --> 00:26:47.818
+So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3811-0
+00:26:48.508 --> 00:26:50.408
+Uh, regret. Did it make sense?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3813-0
+00:26:50.958 --> 00:26:51.578
+Yeah, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3863-0
+00:26:52.088 --> 00:26:57.904
+Yeah. So by doing this. Yeah. So
+this is the way we triaged it.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3820-0
+00:26:52.838 --> 00:26:53.628
+Definitely.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3863-1
+00:26:57.904 --> 00:27:03.720
+And luckily I think in the first
+three swaps, we could identify
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3863-2
+00:27:03.720 --> 00:27:09.718
+that it was a binary from the NS
+team, only msvc1underscore0.dll.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3901-0
+00:27:10.848 --> 00:27:16.712
+So that is how we the past the
+baton to the Redmond team from
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3901-1
+00:27:16.712 --> 00:27:22.576
+from where the DLL was getting
+changed and then that team had
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3901-2
+00:27:22.576 --> 00:27:28.251
+to go and fix their own change
+and that's how the issue got
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3901-3
+00:27:28.251 --> 00:27:28.818
+fixed.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3906-0
+00:27:30.528 --> 00:27:31.818
+Nice, good.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3935-0
+00:27:31.188 --> 00:27:35.204
+Yeah, yeah. Actually, one tool
+that you mentioned that I guess
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3935-1
+00:27:35.204 --> 00:27:38.900
+it was like to know the call
+graph for all the components
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3935-2
+00:27:38.900 --> 00:27:42.980
+that are being called from the
+current component, right? So the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3935-3
+00:27:42.980 --> 00:27:43.298
+test.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3961-0
+00:27:44.098 --> 00:27:47.537
+You remember that tool which
+gave us all the EXE that were
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3940-0
+00:27:44.318 --> 00:27:44.808
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3961-1
+00:27:47.537 --> 00:27:49.868
+required, like called by our
+component.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3977-0
+00:27:49.038 --> 00:27:54.168
+Yeah. Yeah, yeah, yeah. Yeah.
+So, yeah. So that tool is.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3972-0
+00:27:50.558 --> 00:27:52.078
+You can mention that also, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3984-0
+00:27:55.508 --> 00:27:57.418
+Let me check that tool.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3993-0
+00:28:00.638 --> 00:28:03.768
+So I forgot the name of that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/3998-0
+00:28:05.378 --> 00:28:06.888
+Yeah, I also forgot the name.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4000-0
+00:28:07.608 --> 00:28:08.238
+Umm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4005-0
+00:28:10.608 --> 00:28:11.598
+Thank you.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4010-0
+00:28:10.808 --> 00:28:13.278
+Is it dependency Walker?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4009-0
+00:28:12.418 --> 00:28:13.038
+You.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4017-0
+00:28:14.738 --> 00:28:18.408
+Ohh no no, not dependency Walker
+so.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4024-0
+00:28:20.948 --> 00:28:22.748
+Me. Check. Ohh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4043-0
+00:28:46.298 --> 00:28:49.428
+Yeah, I think I lost the name of
+that tool, but.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4054-0
+00:28:50.088 --> 00:28:53.918
+Uh, I'll definitely share one
+side. Remember that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4060-0
+00:28:56.678 --> 00:28:57.148
+So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4080-0
+00:28:57.208 --> 00:29:01.939
+And was to just know what all
+components or the binaries that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4080-1
+00:29:01.939 --> 00:29:05.448
+are being called from are test
+package right?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4082-0
+00:29:06.478 --> 00:29:06.828
+Ashwini.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4084-0
+00:29:07.488 --> 00:29:08.318
+Ohh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4097-0
+00:29:08.868 --> 00:29:11.248
+Was it how long or depend?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4109-0
+00:29:09.348 --> 00:29:15.375
+No, I I'm not sure if that was
+the thing that this I think it
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4109-1
+00:29:15.375 --> 00:29:15.958
+was a.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4122-0
+00:29:18.238 --> 00:29:21.754
+Huh. So yeah, I remember the
+name of the two letters. The
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4122-1
+00:29:21.754 --> 00:29:23.148
+regression Finder tool.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4125-0
+00:29:23.678 --> 00:29:24.698
+Yeah, right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4157-0
+00:29:24.708 --> 00:29:29.173
+Yeah. And for that tool exactly
+does is. Yeah, I think Ravi, you
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4157-1
+00:29:29.173 --> 00:29:33.500
+are right, it takes the payload,
+the current payload and gives
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4157-2
+00:29:33.500 --> 00:29:37.209
+the list of all the binaries
+that have gone into that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4157-3
+00:29:37.209 --> 00:29:38.788
+payload, I think, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4165-0
+00:29:39.688 --> 00:29:41.818
+Ashwini, can you please tell me
+also about this tool?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4232-0
+00:29:43.718 --> 00:29:48.110
+Uh, I don't know much about this
+tool because I also like I I
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4232-1
+00:29:48.110 --> 00:29:52.360
+didn't directly use it, use it.
+So someone from the Redmond
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4232-2
+00:29:52.360 --> 00:29:56.611
+team, his name is junrey. He
+used this tool to get the list
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4232-3
+00:29:56.611 --> 00:30:01.286
+of the binaries. I think it is a
+PowerShell script only that tool
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4232-4
+00:30:01.286 --> 00:30:04.898
+regression finders dot PS1 or
+something like that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4235-0
+00:30:05.598 --> 00:30:06.118
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4265-0
+00:30:05.878 --> 00:30:10.175
+So he just ran that there are
+many settings in that and it's
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4265-1
+00:30:10.175 --> 00:30:14.682
+some it's something complicated.
+So I already had the list so I
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4265-2
+00:30:14.682 --> 00:30:17.288
+didn't need to like go and run
+that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4290-0
+00:30:18.038 --> 00:30:23.460
+So yeah, I think we'll have this
+information in some OneNote if I
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4271-0
+00:30:18.968 --> 00:30:19.618
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4290-1
+00:30:23.460 --> 00:30:26.828
+find that OneNote, I will share
+it here.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4350-0
+00:30:29.148 --> 00:30:32.654
+Yeah, other way we can do is one
+thing is that it can give you a
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4296-0
+00:30:29.428 --> 00:30:29.988
+Around.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4350-1
+00:30:32.654 --> 00:30:35.944
+you give the payload like the
+basically the release week and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4350-2
+00:30:35.944 --> 00:30:39.180
+it will give all the changes
+that have happened, right. One
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4350-3
+00:30:39.180 --> 00:30:42.631
+way is that other way could be
+you can directly go on the track
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4350-4
+00:30:42.631 --> 00:30:45.058
+it and you can just open the
+payload, right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4365-0
+00:30:45.828 --> 00:30:48.838
+And you can check there all the
+bugs that we are fixing in the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4365-1
+00:30:48.838 --> 00:30:50.748
+current build. All the current
+release.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4370-0
+00:30:51.188 --> 00:30:52.068
+Yeah, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4393-0
+00:30:51.418 --> 00:30:55.018
+So that is a bit like a time
+taking one. You have to click
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4393-1
+00:30:55.018 --> 00:30:58.679
+one by one. All the bugs, bugs
+and check which binary it is
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4393-2
+00:30:58.679 --> 00:31:00.448
+referring to or it is fixing.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4407-0
+00:31:01.388 --> 00:31:04.678
+So that is I guess, automated
+via regression Finder tool.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4399-0
+00:31:01.748 --> 00:31:02.198
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4412-0
+00:31:06.318 --> 00:31:07.198
+Yeah. OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4411-0
+00:31:06.388 --> 00:31:06.698
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4425-0
+00:31:07.588 --> 00:31:10.185
+So in case you get stuck with
+the regression funder, you can
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4425-1
+00:31:10.185 --> 00:31:11.078
+do this for you also.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4450-0
+00:31:12.128 --> 00:31:17.457
+OK. OK. Yeah. So if like you are
+any of you are free to give me a
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4450-1
+00:31:17.457 --> 00:31:22.382
+tutorial in this, I'll because
+it looks like a good tool now
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4450-2
+00:31:22.382 --> 00:31:23.108
+and this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4476-0
+00:31:23.928 --> 00:31:28.165
+Yeah, yeah, rig with, but we
+don't use it on a very daily
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4470-0
+00:31:24.118 --> 00:31:28.218
+I guess we yeah, right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4476-1
+00:31:28.165 --> 00:31:29.698
+basis. So that's why.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4477-0
+00:31:28.988 --> 00:31:29.918
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4484-0
+00:31:30.638 --> 00:31:31.948
+Whatever we use.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4503-0
+00:31:31.228 --> 00:31:34.978
+Is we we have not even used it.
+Actually right have we?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4491-0
+00:31:32.688 --> 00:31:33.088
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4514-0
+00:31:34.598 --> 00:31:36.528
+Got it correct. We didn't know
+we didn't.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4553-0
+00:31:35.658 --> 00:31:38.674
+We have not used it. We just
+came to know about this tool.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4553-1
+00:31:38.674 --> 00:31:41.842
+Why? So just wanted to mention
+mention it here for the future
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4534-0
+00:31:41.408 --> 00:31:41.808
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4542-0
+00:31:41.628 --> 00:31:42.658
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4553-2
+00:31:41.842 --> 00:31:44.908
+references. Anybody in case
+requires it so they should have
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4553-3
+00:31:44.908 --> 00:31:45.368
+the info.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4558-0
+00:31:46.398 --> 00:31:47.168
+Hmm yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4562-0
+00:31:47.148 --> 00:31:47.978
+Correct. Correct. Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4570-0
+00:31:52.738 --> 00:31:55.058
+OK. Thanks a lot Ashwini for the
+information.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4585-0
+00:31:55.788 --> 00:31:59.338
+Yeah, it was good. Actually,
+this MTV whole process now.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4573-0
+00:31:56.078 --> 00:31:56.418
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4580-0
+00:31:57.348 --> 00:31:57.748
+Shilpa.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4589-0
+00:31:59.788 --> 00:32:00.248
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4592-0
+00:32:00.178 --> 00:32:00.728
+The phone.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4595-0
+00:32:00.888 --> 00:32:02.018
+Yeah, no problem.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4622-0
+00:32:03.658 --> 00:32:08.043
+So you you mentioned that we
+should like in the like first
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4622-1
+00:32:08.043 --> 00:32:12.799
+kind of step or take away that
+we should have like that our own
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4622-2
+00:32:12.799 --> 00:32:16.068
+machines for testing now that
+VMS and also.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4645-0
+00:32:16.648 --> 00:32:21.635
+Uh, so we should actually. No,
+we can't have our own VM and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4645-1
+00:32:21.635 --> 00:32:25.458
+test suites. Why? Because like I
+said, right?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4680-0
+00:32:25.778 --> 00:32:30.585
+The for the configurations to
+run those tests to. Getting that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4680-1
+00:32:30.585 --> 00:32:35.469
+locally will itself be very time
+time consuming. So what we can
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4680-2
+00:32:35.469 --> 00:32:38.978
+instead do is learn to use that
+Atlas studio.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4725-0
+00:32:39.658 --> 00:32:45.034
+Or we can learn to uh, fire a
+test job from there, like how to
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4725-1
+00:32:45.034 --> 00:32:50.325
+select a select the build like
+for RS5 if we want to fire. So
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4725-2
+00:32:50.325 --> 00:32:55.786
+whatever setting is to be done
+through that UI that much we can
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4725-3
+00:32:55.786 --> 00:32:59.028
+learn and keep handy it just in
+case.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4730-0
+00:32:59.818 --> 00:33:01.188
+We want to like locally.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4738-0
+00:33:01.268 --> 00:33:04.548
+So I mean try these kinds of
+issues.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4749-0
+00:33:05.128 --> 00:33:09.868
+OK, OK. So this Atlas two is our
+own internal Microsoft.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4751-0
+00:33:10.598 --> 00:33:11.048
+Yes.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4753-0
+00:33:11.988 --> 00:33:12.488
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4776-0
+00:33:15.468 --> 00:33:19.747
+So just for awareness like we,
+we should be aware what all
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4776-1
+00:33:19.747 --> 00:33:22.358
+tools we need to keep handy,
+right?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4780-0
+00:33:22.828 --> 00:33:24.068
+Yeah, yeah, definitely.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4782-0
+00:33:26.548 --> 00:33:26.928
+Right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4786-0
+00:33:27.618 --> 00:33:28.168
+Yeah, right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4789-0
+00:33:30.098 --> 00:33:30.598
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4800-0
+00:33:30.108 --> 00:33:33.478
+OK, so nothing more from my side
+then.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4796-0
+00:33:32.078 --> 00:33:32.308
+Well.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4850-0
+00:33:34.478 --> 00:33:38.303
+OK. Thanks a lot Ashwini. And I
+guess we are pretty much like
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4811-0
+00:33:37.048 --> 00:33:38.038
+Yeah. Thank you.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4850-1
+00:33:38.303 --> 00:33:41.942
+only 5 or 10 minutes are left.
+So in case Reg you have any
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4850-2
+00:33:41.942 --> 00:33:45.334
+doubt or Ashwini you have
+anything to share other than
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4829-0
+00:33:42.268 --> 00:33:42.578
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4850-3
+00:33:45.334 --> 00:33:48.048
+that we can stay otherwise we
+can drop off.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4868-0
+00:33:50.578 --> 00:33:56.487
+Actually I'm a I'm ashwini and
+all on a call for that unit
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4868-1
+00:33:56.487 --> 00:33:57.588
+testing so.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4885-0
+00:33:58.868 --> 00:34:01.931
+Oh yeah, that unit testing
+thing, right? We can discuss
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4879-0
+00:34:01.438 --> 00:34:01.768
+Hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4885-1
+00:34:01.931 --> 00:34:03.408
+that if you want here only.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4892-0
+00:34:03.028 --> 00:34:04.788
+Yeah. Yeah, we can. We can
+discuss it.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4890-0
+00:34:04.288 --> 00:34:04.668
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4893-0
+00:34:04.548 --> 00:34:05.108
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4902-0
+00:34:06.878 --> 00:34:09.768
+OK, So what is the exact
+question Revit?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4909-0
+00:34:10.148 --> 00:34:12.658
+OK, OK. One one second.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4920-0
+00:34:20.038 --> 00:34:25.217
+So actually this this unit test
+was created by that feature
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4920-1
+00:34:25.217 --> 00:34:25.648
+team.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4948-0
+00:34:26.968 --> 00:34:31.984
+For that MSRC 73570. So I want
+to run this unit test like for
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4930-0
+00:34:29.838 --> 00:34:30.188
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4948-1
+00:34:31.984 --> 00:34:36.918
+all the platforms. So I want to
+ask you like how to do that?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4952-0
+00:34:37.928 --> 00:34:38.978
+OK. OK. OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4968-0
+00:34:39.648 --> 00:34:45.557
+So OK, I have not done this
+before, but I think the way to
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4968-1
+00:34:45.557 --> 00:34:46.658
+do this is.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5005-0
+00:34:47.718 --> 00:34:53.294
+But once you have this change in
+your local tree, you are get the
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/4980-0
+00:34:51.428 --> 00:34:51.888
+Hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5005-1
+00:34:53.294 --> 00:34:58.616
+build, so there will be an EXE
+test EXE or something like that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5005-2
+00:34:58.616 --> 00:35:03.008
+that is supposed to take a
+shape. So if I see this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5018-0
+00:35:03.088 --> 00:35:08.026
+So like OK, your main changes in
+the visualization were sorry
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5018-1
+00:35:08.026 --> 00:35:09.858
+virtualization dot CPP.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5020-0
+00:35:10.358 --> 00:35:10.738
+Hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5033-0
+00:35:10.668 --> 00:35:15.485
+Uh, so that is your main change
+and the unit, where is the test?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5033-1
+00:35:15.485 --> 00:35:16.818
+It is in the test.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5039-0
+00:35:17.838 --> 00:35:19.848
+Best function Taf folder?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5052-0
+00:35:20.278 --> 00:35:23.999
+OK, so this virtualization dot
+CPP is also kind of a test file
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5052-1
+00:35:23.999 --> 00:35:24.648
+right then.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5075-0
+00:35:24.948 --> 00:35:29.268
+Yeah, yeah, yeah. Actually, it
+contains all the tests. Like all
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5075-1
+00:35:29.268 --> 00:35:32.238
+the registry tests here verify
+or equal 32.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5076-0
+00:35:30.628 --> 00:35:32.428
+OK, got it. Got it.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5087-0
+00:35:33.178 --> 00:35:35.078
+Got it. So OK, so let.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5093-0
+00:35:33.598 --> 00:35:37.418
+So they are just added a one
+test for that our MSRC.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5115-0
+00:35:39.918 --> 00:35:45.048
+OK, so I can try to answer this
+question. Can you just paste
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5115-1
+00:35:45.048 --> 00:35:49.588
+this link of this virtualization
+dot CPP in the chat?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5117-0
+00:35:50.858 --> 00:35:51.318
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5119-0
+00:35:59.928 --> 00:36:00.208
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5130-0
+00:36:03.348 --> 00:36:05.918
+OK, thank you. Pasted the pull
+request.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5144-0
+00:36:06.678 --> 00:36:10.945
+Link no, no problem. I'll take.
+I'll take the link from there,
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5138-0
+00:36:08.698 --> 00:36:09.088
+You.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5144-1
+00:36:10.945 --> 00:36:11.148
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5145-0
+00:36:11.108 --> 00:36:11.368
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5153-0
+00:36:18.058 --> 00:36:20.908
+So we usually don't do this unit
+test.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5156-0
+00:36:23.578 --> 00:36:24.128
+For.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5163-0
+00:36:25.078 --> 00:36:27.008
+Like a for other MSRC like.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5165-0
+00:36:30.938 --> 00:36:31.628
+Ohh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5220-0
+00:36:31.998 --> 00:36:36.015
+To rig like we have been seeing
+like Updation in unit tests only
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5220-1
+00:36:36.015 --> 00:36:39.723
+for the these registry MSRC
+right? Ashwini for the past two
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5220-2
+00:36:39.723 --> 00:36:43.739
+MSRC only we have seen that they
+have changed the test cases for
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5189-0
+00:36:41.708 --> 00:36:42.118
+Yes.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5220-3
+00:36:43.739 --> 00:36:47.262
+LPC and I guess for similar is
+for RPC we do not see any
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5202-0
+00:36:44.468 --> 00:36:44.868
+But it.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5220-4
+00:36:47.262 --> 00:36:48.868
+changes in the test cases.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5222-0
+00:36:49.338 --> 00:36:49.868
+Right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5226-0
+00:36:50.458 --> 00:36:51.158
+Ohh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5257-0
+00:36:50.608 --> 00:36:54.353
+So basically why they are doing
+is this is in the history is
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5257-1
+00:36:54.353 --> 00:36:58.097
+because they might have missed
+this test case. So for future
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5257-2
+00:36:58.097 --> 00:37:01.718
+references I guess they add a
+test for this scenario also.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5267-0
+00:37:03.148 --> 00:37:05.008
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5300-0
+00:37:03.168 --> 00:37:06.458
+But I guess the same is not
+applicable for a LPC and RPC. So
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5300-1
+00:37:06.458 --> 00:37:09.802
+because they are mostly the I
+guess for at least for LPC they
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5300-2
+00:37:09.802 --> 00:37:13.039
+are race conditions. So you
+cannot like add a test case for
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5300-3
+00:37:13.039 --> 00:37:13.308
+that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5309-0
+00:37:14.198 --> 00:37:17.758
+We have to manually anyway have
+to, like maneuver it.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5313-0
+00:37:19.958 --> 00:37:20.968
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5315-0
+00:37:21.028 --> 00:37:22.038
+Yeah. So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5328-0
+00:37:21.688 --> 00:37:25.748
+OK, so that's why I also note
+that uh, that DTP tests are
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5328-1
+00:37:25.748 --> 00:37:26.728
+there now for.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5346-0
+00:37:28.338 --> 00:37:31.509
+Yeah. So for these components,
+they are already standard test
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5346-1
+00:37:31.509 --> 00:37:34.628
+cases that are already written.
+So we run that in TMP, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5349-0
+00:37:35.838 --> 00:37:36.568
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5369-0
+00:37:43.828 --> 00:37:48.942
+Yeah. So for that
+virtualization, CPP, what I'm
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5369-1
+00:37:48.942 --> 00:37:51.498
+exactly trying to do is.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5374-0
+00:37:52.188 --> 00:37:54.248
+I'm trying to get the uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5393-0
+00:37:55.578 --> 00:38:01.273
+Ohh make fine for this test
+binary so that we are able to
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5393-1
+00:38:01.273 --> 00:38:04.218
+identify the test binary that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5404-0
+00:38:05.008 --> 00:38:08.478
+Uh, that this gets compiled
+into, so I'm sharing my screen.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5406-0
+00:38:09.058 --> 00:38:09.548
+Hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5415-0
+00:38:12.398 --> 00:38:16.888
+And I'm just going to try
+something in research so.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5418-0
+00:38:17.478 --> 00:38:18.588
+OK. Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5421-0
+00:38:18.928 --> 00:38:19.618
+Ohh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5427-0
+00:38:25.238 --> 00:38:26.608
+Yeah, so here this is.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5432-0
+00:38:27.768 --> 00:38:29.018
+In those config.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5441-0
+00:38:30.348 --> 00:38:34.478
+What is this Inc file? I also
+see many times.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5462-0
+00:38:35.058 --> 00:38:40.195
+So this is, uh, the one that uh
+it it is the make file kind of
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5462-1
+00:38:40.195 --> 00:38:40.928
+thing so.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5464-0
+00:38:41.658 --> 00:38:42.218
+Uh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5497-0
+00:38:43.268 --> 00:38:48.889
+It's the in windows make system,
+so in that whatever goals I
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5497-1
+00:38:48.889 --> 00:38:54.694
+think that is the that is the
+extension for that is sources.in
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5497-2
+00:38:54.694 --> 00:38:54.878
+C.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5504-0
+00:38:56.748 --> 00:38:57.158
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5518-0
+00:39:01.498 --> 00:39:02.088
+Thank you.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5534-0
+00:39:02.518 --> 00:39:07.156
+Yeah, the makes makes system
+that will be usually seen Linux
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5521-0
+00:39:02.528 --> 00:39:02.928
+Hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5534-1
+00:39:07.156 --> 00:39:07.688
+builds.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5536-0
+00:39:08.878 --> 00:39:09.258
+Yes.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5546-0
+00:39:12.388 --> 00:39:15.378
+OK, this is taking forever to
+load. I don't know why.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5598-0
+00:39:30.518 --> 00:39:35.891
+So what I'm trying to do here is
+that like insidesources.in C we
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5598-1
+00:39:35.891 --> 00:39:40.933
+can see which binary this whole
+thing gets compiled into. So
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5598-2
+00:39:40.933 --> 00:39:46.141
+there is this gets mapped and
+under the test folder. So let me
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5598-3
+00:39:46.141 --> 00:39:50.108
+just see if that test folder is
+somewhere here.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5609-0
+00:39:51.468 --> 00:39:55.318
+So here I think all the sources
+are getting built OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5617-0
+00:39:59.568 --> 00:40:01.828
+All this is the config dot Lib.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5625-0
+00:40:03.188 --> 00:40:05.978
+I'll go one level down and try
+to search.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5628-0
+00:40:07.908 --> 00:40:08.828
+Just in case.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5655-0
+00:40:16.428 --> 00:40:19.532
+So one thing where Ashwini I
+guess what a test folder to
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5655-1
+00:40:19.532 --> 00:40:22.745
+build. There must be some
+special flag right? So some test
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5655-2
+00:40:22.745 --> 00:40:24.378
+might be check might be there.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5666-0
+00:40:25.518 --> 00:40:27.948
+By default it might not be
+building right test 1.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5661-0
+00:40:25.658 --> 00:40:26.258
+Ohh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5689-0
+00:40:29.508 --> 00:40:33.996
+I think it will get built by
+default also because the there
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5689-1
+00:40:33.996 --> 00:40:38.258
+is in the in the PR that Rigved
+shared, I don't see any.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5706-0
+00:40:38.378 --> 00:40:43.601
+Ohh flag or anything getting set
+like for the test for the test
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5706-1
+00:40:43.601 --> 00:40:44.988
+to compile right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5722-0
+00:40:45.548 --> 00:40:48.723
+Yeah, but like they might be
+controlling the compile time
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5722-1
+00:40:48.723 --> 00:40:50.748
+only, no from the compile time
+only.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5729-0
+00:40:51.818 --> 00:40:53.328
+That is something, yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5737-0
+00:40:51.878 --> 00:40:56.108
+So like we used to, yeah, we can
+check like I'm also so scheme.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5749-0
+00:40:55.408 --> 00:40:59.999
+Ashwini actually virtualization.
+There is a velocity tag like W
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5749-1
+00:40:59.999 --> 00:41:01.648
+if WSD feature present.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5756-0
+00:41:02.688 --> 00:41:05.278
+That is fine, so velocity tag.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5769-0
+00:41:05.378 --> 00:41:10.698
+Well, I mean that is fine like
+that is not related to the test.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5776-0
+00:41:12.008 --> 00:41:14.258
+Anyway, like this is just.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5801-0
+00:41:15.028 --> 00:41:18.822
+So this test will go there, but
+if you are locally you will
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5801-1
+00:41:18.822 --> 00:41:22.678
+include this into your local
+branch. Let's say for. See you.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5829-0
+00:41:23.378 --> 00:41:27.330
+So anyway, we are just what we
+are discussing is that whether
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5805-0
+00:41:23.438 --> 00:41:23.748
+Mm-hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5829-1
+00:41:27.330 --> 00:41:30.708
+or not that test will get
+compiled when you run DCP.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5850-0
+00:41:31.678 --> 00:41:35.076
+So we added discussing that if
+there is a special flag or
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5850-1
+00:41:35.076 --> 00:41:37.888
+something inside some make file
+or inside this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5853-0
+00:41:38.588 --> 00:41:39.198
+Ohh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5856-0
+00:41:39.868 --> 00:41:40.788
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5858-0
+00:41:41.238 --> 00:41:41.848
+Like that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5891-0
+00:41:43.378 --> 00:41:47.230
+So basically rig to just explain
+it up like a more. So once we
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5891-1
+00:41:47.230 --> 00:41:50.837
+give a build command. So how
+does that build command knows
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5891-2
+00:41:50.837 --> 00:41:54.567
+what to build right? So there
+must be some some like you can
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5891-3
+00:41:54.567 --> 00:41:55.178
+say rules.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5894-0
+00:41:55.728 --> 00:41:56.138
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5923-0
+00:41:56.168 --> 00:41:59.061
+To be right, which which will
+tell like build this file then
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5923-1
+00:41:59.061 --> 00:42:02.049
+this file, then this file and
+then pack it. All this into this
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5923-2
+00:42:02.049 --> 00:42:03.898
+single EXE right? Something like
+that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5931-0
+00:42:03.628 --> 00:42:04.818
+Yes, yes.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5939-0
+00:42:04.578 --> 00:42:07.908
+So that is what we are
+discussing. So maybe like we do
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5929-0
+00:42:04.698 --> 00:42:05.118
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5939-1
+00:42:07.908 --> 00:42:09.118
+not like every time.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5970-0
+00:42:09.208 --> 00:42:12.898
+The but like, that's what we
+were discussing in case the test
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5970-1
+00:42:12.898 --> 00:42:16.588
+folder is also getting built by
+default. Or do we provide any
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5970-2
+00:42:16.588 --> 00:42:17.778
+special flag for it?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5980-0
+00:42:19.438 --> 00:42:20.558
+That's what we were discussing.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5979-0
+00:42:19.628 --> 00:42:20.358
+OK. Uh-huh.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/5993-0
+00:42:31.018 --> 00:42:33.888
+And so I see a lot of test files
+here.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6012-0
+00:42:36.278 --> 00:42:40.269
+So see this we see here it is
+not built as part of the anti
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6012-1
+00:42:40.269 --> 00:42:43.128
+build process and it may not be
+compliant.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6015-0
+00:42:44.388 --> 00:42:45.348
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6017-0
+00:42:47.568 --> 00:42:48.288
+So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6019-0
+00:42:48.758 --> 00:42:49.108
+Today.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6023-0
+00:42:50.318 --> 00:42:52.338
+Alright, let me check.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6061-0
+00:43:35.628 --> 00:43:40.593
+So at least I think this much we
+know that this test won't get
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6061-1
+00:43:40.593 --> 00:43:42.878
+built in the default setting.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6065-0
+00:43:43.368 --> 00:43:44.288
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6079-0
+00:43:43.578 --> 00:43:47.328
+Right. Uh, right, Ravi, like you
+also feel the same, right? Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6077-0
+00:43:45.198 --> 00:43:46.548
+Right, right. Right. I should.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6088-0
+00:43:47.438 --> 00:43:49.978
+Yeah. At least from the
+different scenes. So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6090-0
+00:43:50.468 --> 00:43:50.718
+Correct.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6100-0
+00:43:51.968 --> 00:43:56.228
+In that case, I think what can
+be done is that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6122-0
+00:43:59.198 --> 00:44:03.405
+I guess we can directly ask the
+feature team, right? Rick, did
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6117-0
+00:44:02.618 --> 00:44:03.458
+But a good A.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6122-1
+00:44:03.405 --> 00:44:05.208
+you try connecting to them?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6138-0
+00:44:06.178 --> 00:44:10.257
+No, actually I had to do this
+with Karthik earlier, Karthik
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6138-1
+00:44:10.257 --> 00:44:11.548
+said. We will like.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6139-0
+00:44:12.328 --> 00:44:12.738
+Action.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6153-0
+00:44:13.398 --> 00:44:15.428
+So he's aware of these things,
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6151-0
+00:44:13.498 --> 00:44:14.668
+We will do it together but.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6190-0
+00:44:15.778 --> 00:44:20.359
+Yeah, but then? Uh, then, uh. So
+on Thursday on the ship room
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6190-1
+00:44:20.359 --> 00:44:25.087
+day, I was busy with source repo
+and lower platform validation.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6190-2
+00:44:25.087 --> 00:44:29.593
+So then I thought that maybe I
+should try myself as the that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6190-3
+00:44:29.593 --> 00:44:31.218
+reading that OG Vicki.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6227-0
+00:44:32.308 --> 00:44:36.440
+So there is something mentioned
+about this Taf test. Like you
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6201-0
+00:44:34.068 --> 00:44:34.468
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6227-1
+00:44:36.440 --> 00:44:40.772
+can build it locally and you can
+like do BCP and then a DLL file
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6227-2
+00:44:40.772 --> 00:44:43.438
+will join it. Then you can use
+VS test.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6238-0
+00:44:44.068 --> 00:44:47.188
+To run all the test case, but I
+could not like.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6241-0
+00:44:48.718 --> 00:44:49.128
+That.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6279-0
+00:44:50.548 --> 00:44:54.945
+Make it work so that I thought
+maybe I can ask you like so
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6279-1
+00:44:54.945 --> 00:44:59.490
+actually I have a one-on-one
+Karthik at 6:00 AM. CFE. Sorry.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6257-0
+00:44:55.008 --> 00:44:55.638
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6279-2
+00:44:59.490 --> 00:45:02.768
+Six just now 6:00 PM. So I'll
+I'll ask him.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6276-0
+00:45:02.068 --> 00:45:02.508
+Sure.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6297-0
+00:45:03.188 --> 00:45:08.308
+Yeah. Yeah, sure. So yeah. So I
+think here also right now and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6282-0
+00:45:03.708 --> 00:45:04.068
+Mm-hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6297-1
+00:45:08.308 --> 00:45:10.868
+see what is coming. Just. Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6323-0
+00:45:11.628 --> 00:45:15.423
+So in this also, I think, uh,
+this is taking some time. So we
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6323-1
+00:45:15.423 --> 00:45:19.278
+can figure this out and get in
+touch with the feature team and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6323-2
+00:45:19.278 --> 00:45:20.318
+ask them because.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6332-0
+00:45:21.338 --> 00:45:24.148
+He from the sources here.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6328-0
+00:45:22.298 --> 00:45:22.958
+Yeah, Mike.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6334-0
+00:45:25.068 --> 00:45:25.498
+Hmm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6368-0
+00:45:25.938 --> 00:45:29.745
+As such, I'm not able to see
+anything directly like which
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6368-1
+00:45:29.745 --> 00:45:34.011
+binary, but we can get the name
+of the test binary. I think that
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6368-2
+00:45:34.011 --> 00:45:37.948
+much we can get, but how exactly
+this test they run on the?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6382-0
+00:45:38.268 --> 00:45:43.058
+Ohh, on their VM to validate
+that we can ask them.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6374-0
+00:45:40.368 --> 00:45:40.788
+Umm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6385-0
+00:45:43.658 --> 00:45:44.588
+Yeah, yeah, correct.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6387-0
+00:45:47.128 --> 00:45:47.378
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6394-0
+00:45:48.608 --> 00:45:50.508
+Yep, I guess that will do.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6407-0
+00:45:49.938 --> 00:45:54.884
+So I I found the test binary
+name. Let me just quickly share
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6407-1
+00:45:54.884 --> 00:45:55.208
+and.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6414-0
+00:45:55.878 --> 00:45:57.308
+Then we can wrap up this call.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6416-0
+00:45:58.658 --> 00:45:58.948
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6433-0
+00:45:59.598 --> 00:46:04.057
+Yeah. So there's this one UT
+under score or registry
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6433-1
+00:46:04.057 --> 00:46:05.318
+functional.dll.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6436-0
+00:46:07.078 --> 00:46:08.348
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6446-0
+00:46:09.648 --> 00:46:12.618
+OK, target destination. I think
+I have a folder like this.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6449-0
+00:46:14.358 --> 00:46:15.288
+After build.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6461-0
+00:46:16.248 --> 00:46:19.628
+In the unit test name named as
+unit test, right?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6457-0
+00:46:17.988 --> 00:46:18.488
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6465-0
+00:46:20.288 --> 00:46:21.418
+Yeah, unit test.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6490-0
+00:46:23.718 --> 00:46:28.764
+QTUTUT yes, UT yeah, there is a
+function DLL file you UT
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6490-1
+00:46:28.764 --> 00:46:30.888
+registry functional.dll.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6499-0
+00:46:30.358 --> 00:46:32.608
+That gets built, right? So yeah,
+the.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6500-0
+00:46:31.888 --> 00:46:33.078
+You that gets built here.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6512-0
+00:46:33.678 --> 00:46:37.428
+So see. Yeah. So that is there
+then, but then.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6518-0
+00:46:39.448 --> 00:46:40.518
+OK. Could you?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6538-0
+00:46:39.658 --> 00:46:45.546
+There will be. There will be no.
+But how will you run the test?
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6538-1
+00:46:45.546 --> 00:46:49.318
+So DLL you can't run directly
+right? So.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6532-0
+00:46:46.338 --> 00:46:46.948
+Actually.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6548-0
+00:46:49.238 --> 00:46:52.668
+I can I can run actually. Uh,
+let me share my screen.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6551-0
+00:46:53.238 --> 00:46:53.748
+Spoken.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6563-0
+00:46:55.028 --> 00:46:58.028
+Yeah. So in here in this OG
+wiki.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6579-0
+00:47:00.018 --> 00:47:03.050
+They have mentioned that I can
+use this command to run
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6579-1
+00:47:03.050 --> 00:47:04.648
+directly, run this DLL files.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6593-0
+00:47:06.308 --> 00:47:09.958
+Where is this this VS test
+console. The test DLL file path.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6597-0
+00:47:12.298 --> 00:47:13.258
+OK, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6608-0
+00:47:14.428 --> 00:47:17.038
+So yeah, so it's just like that,
+that.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6607-0
+00:47:16.078 --> 00:47:17.118
+Oh, OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6639-0
+00:47:17.978 --> 00:47:21.737
+I have to run a BCP so it's
+already built this unit test
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6639-1
+00:47:21.737 --> 00:47:25.561
+folder. This UT registry
+function or DLL. Maybe I can try
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6628-0
+00:47:22.898 --> 00:47:23.318
+Umm.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6639-2
+00:47:25.561 --> 00:47:26.748
+running this file.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6646-0
+00:47:28.738 --> 00:47:31.278
+OK, so OK, OK, got it.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6650-0
+00:47:32.368 --> 00:47:33.268
+For instance.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6673-0
+00:47:34.178 --> 00:47:37.491
+Yeah. So you can, yeah. And
+yeah, you can try that and
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6662-0
+00:47:34.258 --> 00:47:36.038
+You can try that and yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6673-1
+00:47:37.491 --> 00:47:39.358
+update in the chat room, right.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6676-0
+00:47:39.018 --> 00:47:39.998
+But it but yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6679-0
+00:47:39.688 --> 00:47:40.618
+Uh, yeah, yeah, sure.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6681-0
+00:47:40.808 --> 00:47:41.228
+Yes.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6683-0
+00:47:41.458 --> 00:47:41.938
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6700-0
+00:47:44.638 --> 00:47:49.008
+OK. And please share this link
+also this unit testing link.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6692-0
+00:47:44.838 --> 00:47:46.378
+OK. Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6704-0
+00:47:51.158 --> 00:47:52.018
+Ah, OK yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6706-0
+00:47:52.758 --> 00:47:52.948
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6720-0
+00:47:56.798 --> 00:47:59.888
+OK guys, I guess then we are.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6712-0
+00:47:57.138 --> 00:47:57.738
+OK.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6714-0
+00:47:58.498 --> 00:47:58.788
+Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6724-0
+00:47:58.768 --> 00:48:01.318
+OK. Thank you so much Ravi and
+Ashwini.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6734-0
+00:48:00.988 --> 00:48:03.678
+Yeah. Yeah. Thank you everyone.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6737-0
+00:48:01.988 --> 00:48:04.348
+Thank you. Thank you. Love. You
+look great. Yeah.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6741-0
+00:48:04.888 --> 00:48:06.508
+OK, bye.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6743-0
+00:48:05.958 --> 00:48:07.278
+OK, bye.
+
+3d9b9d5f-cac4-454a-8808-c2c8efca111f/6745-0
+00:48:07.738 --> 00:48:08.168
+Bye.

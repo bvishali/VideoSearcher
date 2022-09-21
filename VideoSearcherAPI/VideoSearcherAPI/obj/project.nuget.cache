@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "tnaKMmxAEj8jnNnzCOPnc/pO53vTUXSg8xT9RNHIEBXvjtnuxCc8+JIBg+BrmC8LP3egNxjqIxQm1Wifhe97/g==",
+  "dgSpecHash": "jRbPoHZccT1OgjXPLLCaZOjowCA/gafKZ5BZl7SOxQuAp2nJ4LtnxIsbgE9eGUG+zknmFnY24IgDEmyUK14rqg==",
   "success": true,
-  "projectFilePath": "D:\\Hackathon-22\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Hackathon-22\\VideoSearcher\\VideoSearcher\\VideoSearcherAPI\\VideoSearcherAPI\\VideoSearcherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nineema\\.nuget\\packages\\azure.ai.language.questionanswering\\1.0.0\\azure.ai.language.questionanswering.1.0.0.nupkg.sha512",
+    "C:\\Users\\nineema\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
+    "C:\\Users\\nineema\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\nineema\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\nineema\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\nineema\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\nineema\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\nineema\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\nineema\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
   "logs": []
 }
