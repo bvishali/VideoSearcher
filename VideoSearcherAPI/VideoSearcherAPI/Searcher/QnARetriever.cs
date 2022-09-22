@@ -37,21 +37,26 @@ namespace VideoSearcherAPI.Searcher
             AnswersFromTextOptions options = new AnswersFromTextOptions(question, records);
             Response<AnswersFromTextResult> response = client.GetAnswersFromText(options);
 
-            var confidentAnswers = response.Value.Answers.Where(x => x.Confidence > 0.1);
+            var confidentAnswers = response.Value.Answers.Where(x => x.Confidence > 0.1).OrderByDescending(x => x.Confidence);
 
             answers.Question = question;
-            answers.Answers = new List<string>();
+            answers.Answers = new List<AnswerDetails>();
 
             if (confidentAnswers != null && confidentAnswers.Any())
             {
                 foreach (var ans in confidentAnswers)
                 {
-                    answers.Answers.Add(ans.Answer);
+                    AnswerDetails answerDetails = new AnswerDetails();
+                    answerDetails.Answer = ans.Answer;
+                    answerDetails.confidence = ans.Confidence;
+                    answers.Answers.Add(answerDetails);
                 }
             }
             else
             {
-                answers.Answers.Add("Couldn't find relevant answer!");
+                AnswerDetails answerDetails = new AnswerDetails();
+                answerDetails.Answer = "Couldn't find relevant answer!";
+                answers.Answers.Add(answerDetails);
             }
 
 

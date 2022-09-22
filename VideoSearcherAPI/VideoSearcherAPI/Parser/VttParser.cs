@@ -44,9 +44,10 @@ namespace VideoSearcherAPI.Parser
             {
                 string sub = String.Join(" ", item.Lines.ToArray());
                 subs.Append(sub);
+                subs.Append(" ");
             }
-
-             return SplitByLength(subs.ToString(), 20000).ToList();
+            
+            return SplitByLength(subs.ToString(), 20000).ToList();
         }
             private IEnumerable<string> SplitByLength(string str, int maxLength)
              {

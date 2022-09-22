@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/083fe367-159d-4f51-9098-c423f3d8fdbf/AppServices/subscriptions/083fe367-159d-4f51-9098-c423f3d8fdbf/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/VideoSearcherUI-Hackthon22",
-    "appService.deploySubpath": "."
-}

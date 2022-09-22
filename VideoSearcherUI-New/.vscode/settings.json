@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/083fe367-159d-4f51-9098-c423f3d8fdbf/AppServices/subscriptions/083fe367-159d-4f51-9098-c423f3d8fdbf/resourceGroups/Hackathon-22/providers/Microsoft.Web/sites/VideoSearcherUI",
+    "appService.deploySubpath": "videosearcherui\\build"
+}

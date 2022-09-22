@@ -4,30 +4,33 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using VideoSearcherAPI.Model;
 using VideoSearcherAPI.Parser;
 
 namespace VideoSearcherAPI.Searcher
 {
     public class VttContentSearcher
     {
-
-        public static string[] Search(string file, string content)
+        public static void Search(string file, AnswerDetails answerDetails)
         {
-            string[] frame = new string[20];
+            string content = answerDetails.Answer;
+            answerDetails.timeframe = new List<StartEndTime>();
             int k=0;
             VttParser parser = new VttParser();
-            //List<string> subs = parser.ConvertVTTToString(File.Open(file, FileMode.Open), System.Text.Encoding.ASCII);
-            List<SubtitleItem> list = parser.ParseStream(File.Open(file, FileMode.Open), System.Text.Encoding.ASCII);
-            
+            FileStream fileStream = File.Open(file, FileMode.Open);
+            List<SubtitleItem> list = parser.ParseStream( fileStream, System.Text.Encoding.ASCII);
+            fileStream.Close();
+
             /*search through sliding window*/
             int windowSize = 0;
-            int start=0;
-            int end=0;
+            StartEndTime startEndTime = new StartEndTime();
+            startEndTime.startTimeInMiliSec = 0;
+            startEndTime.endTimeInMiliSec = 0;
+            answerDetails.timeframe.Add(startEndTime);
             string[] contentlist = content.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
             for (int i = 0; i < list.Count; i++) { 
                 SubtitleItem item = list[i];
                 for (int j = windowSize; j < contentlist.Length; j++) {
-                    //Console.WriteLine(item.Lines[0]+" "+contentlist[j]);
                     
                     string[] linelist = String.Join(" ", item.Lines).Split(' ');
                     if (!Exists(linelist, contentlist[j]))
@@ -35,22 +38,18 @@ namespace VideoSearcherAPI.Searcher
                         break;
                     }
                     else { 
-                        if(windowSize==0) { 
-                        start = item.StartTime;
-                        end = item.EndTime;
-                        frame[k] = string.Join('-', start, end);
+                        if(windowSize==0) {
+                            answerDetails.timeframe[k].startTimeInMiliSec = item.StartTime;
+                            answerDetails.timeframe[k].endTimeInMiliSec = item.EndTime;
                         }
                         windowSize++; 
                     }
                     if(windowSize==contentlist.Length) {
-                        end = item.EndTime;
-                        frame[k++] = string.Join('-', start, end);
-                        Console.WriteLine("Time"+frame);
+                        answerDetails.timeframe[k].startTimeInMiliSec = item.EndTime;
+                        k++;
                     }
                  }
             }
-            //Console.WriteLine(subs[1]);
-            return frame;
         }
 
         private static bool Exists(string[] lList, string sCompare)
